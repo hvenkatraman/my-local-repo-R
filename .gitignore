@@ -1,0 +1,6 @@
+# Files & Folders to be ignored
+logs/
+node_modules
+**/node_modules
+pass.txt
+pass.md
